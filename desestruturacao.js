@@ -11,10 +11,10 @@ console.log (pessoa.nome)
 console.log (altura) */
 
 
-let listaCompras = ["pao","leite","ovos",'nescau']
+let listaCompras = ["pao","leite","ovos",'nescau','banana']
 
 console.log (listaCompras[3])
 
-const [item0, , item1] = listaCompras
+const [item0, , item1,item2,item3] = listaCompras
 
-console.log (item1)
+console.log (item3)
