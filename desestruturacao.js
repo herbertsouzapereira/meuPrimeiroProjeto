@@ -18,3 +18,5 @@ console.log (listaCompras[3])
 const [item0, , item1,item2,item3] = listaCompras
 
 console.log (item3)
+
+//teste de alteração......
